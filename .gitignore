@@ -10,3 +10,4 @@ lib/dispatcher
 lib/stores
 public/jspm_packages
 build
+database
